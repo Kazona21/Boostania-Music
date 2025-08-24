@@ -57,7 +57,7 @@ class CentralEmbedHandler {
                 .setImage('https://i.ibb.co/DDSdKy31/ezgif-8aec7517f2146d.gif')
                 .setThumbnail('https://cdn.discordapp.com/attachments/1234567890/1234567890/music_note.gif') // Add a cute music note gif
                 .setFooter({ 
-                    text: 'Ultimate Music Bot • Developed By GlaceYT!',
+                    text: 'Boostania Music Bot • Developed By Kazochim!',
                     iconURL: this.client.user.displayAvatarURL()
                 })
                 .setTimestamp();
@@ -263,7 +263,7 @@ class CentralEmbedHandler {
                 .setImage('https://i.ibb.co/DDSdKy31/ezgif-8aec7517f2146d.gif')
                 .setThumbnail('https://cdn.discordapp.com/attachments/1234567890/1234567890/music_note.gif') // Add a cute music note gif
                 .setFooter({ 
-                    text: 'Ultimate Music Bot • Developed By GlaceYT!',
+                    text: 'Boostania Music Bot • Developed By Kazochim!',
                     iconURL: this.client.user.displayAvatarURL()
                 })
                 .setTimestamp();
@@ -365,3 +365,4 @@ class CentralEmbedHandler {
 }
 
 module.exports = CentralEmbedHandler;
+
